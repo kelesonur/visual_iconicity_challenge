@@ -85,7 +85,6 @@ visual_iconicity_challenge/
 │   │   ├── gemma/               # Gemma-3
 │   │   ├── gpt/                 # GPT-4o, GPT-5
 │   │   └── gemini/              # Gemini 2.5 Pro
-│   └── prepare_dataset.py       # Dataset preparation
 └── requirements.txt              # Dependencies
 ```
 
