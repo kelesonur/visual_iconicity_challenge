@@ -1,0 +1,97 @@
+video,gloss,dutch,category,handshape,location,path_shape,path_repetition,handedness,transparency,transparency_2,reference,iconicity_binary,iconicity_rating
+sign_001.mp4,LOBSTER,KREEFT,high iconic,H6,L5,hold,repeated,two-handed symmetrical,UNKNOWN,TO-SHOUT,action,no,2
+sign_002.mp4,TO-SHOUT,SCHREEUWEN,arbitrary,H6,L5,circular,repeated,two-handed symmetrical,TO-ARGUE,UMBRELLA,action,yes,4
+sign_003.mpeg,RABBIT,KONIJN,low iconic,H2,L1,arched,repeated,two-handed symmetrical,TO-SLAP,TO-SMS,action,yes,5
+sign_004.mp4,TO-GO-OUT,UITGAAN,arbitrary,H1,L1,straight,single,one-handed,TO-SHOUT,PLANE,action,yes,2
+sign_005.mp4,TO-SLAP,SLAPEN,high iconic,H4,L5,arched,repeated,one-handed,UNKNOWN,TO-SLAP,action,yes,5
+sign_006.mpeg,TO-WRING,WRINGEN,high iconic,H1,L3,straight,repeated,two-handed symmetrical,TO-ERASE,TO-WRING,action,yes,6
+sign_007.mp4,BALL,BAL,low iconic,H2,L5,hold,repeated,two-handed symmetrical,UNKNOWN,BUTTERFLY,action,no,3
+sign_008.mp4,SPIDER,SPIN,high iconic,H6,L5,arched,single,one-handed,UNKNOWN,UMBRELLA,action,yes,2
+sign_009.mp4,DEER,HERT,high iconic,H2,L1,hold,single,two-handed symmetrical,UNKNOWN,CURTAINS,action,no,5
+sign_010.mpeg,ZIMMER,ROLLATOR,low iconic,H2,L5,hold,repeated,two-handed symmetrical,UNKNOWN,TO-CRY,action,no,2
+sign_011.mp4,ELECTRICITY,ELEKTRICITEIT,arbitrary,H4,L1,arched,single,one-handed,TO-ARGUE,TO-SLAP,action,no,2
+sign_012.mp4,CAMEL,KAMEEL,high iconic,H2,L5,circular,repeated,two-handed asymmetrical,UNKNOWN,TO-FLY,action,no,1
+sign_013.mpeg,ROOM,KAMER,arbitrary,H2,L5,arched,repeated,two-handed symmetrical,UNKNOWN,ROOM,action,no,2
+sign_014.mp4,WINDSCREEN WIPER,RUITENWISSER,low iconic,H6,L5,arched,repeated,two-handed asymmetrical,UNKNOWN,WINDSCREEN WIPER,action,yes,5
+sign_015.mpeg,RESTAURANT,RESTAURANT,low iconic,H6,L5,arched,repeated,two-handed symmetrical,UNKNOWN,ROOM,action,no,2
+sign_016.mp4,CALCULATOR,REKENMACHINE,high iconic,H6,L5,hold,single,two-handed symmetrical,UNKNOWN,BABY,action,no,2
+sign_017.mp4,BUILDING,GEBOUW,arbitrary,H6,L5,straight,repeated,two-handed symmetrical,TO-ARGUE,TO-KNOCK,action,no,2
+sign_018.mpeg,SUGAR,SUIKER,arbitrary,H2,L1,circular,repeated,one-handed,TO-SLAP,TO-ERASE,action,no,1
+sign_019.mp4,PRAM,BUGGY,arbitrary,H1,L5,straight,repeated,two-handed symmetrical,UNKNOWN,PRAM,action,no,1
+sign_020.mpeg,TO-INJECT,INJECTEREN,low iconic,H2,L5,circular,repeated,two-handed asymmetrical,UNKNOWN,TO-SLAP,action,yes,3
+sign_021.mp4,TO-PUMP,OPPEMPEN,high iconic,H1,L5,circular,repeated,two-handed symmetrical,TO-ARGUE,TO-KNOCK,action,yes,5
+sign_022.mp4,SPOON,LEPEL,high iconic,H4,L5,straight,single,one-handed,TO-ARGUE,TO-GOSSIP,action,no,2
+sign_024.mpeg,BOX,DOOS,low iconic,H2,L5,arched,repeated,two-handed symmetrical,UNKNOWN,BOX,action,yes,5
+sign_025.mp4,CAR,AUTO,high iconic,H1,L5,hold,repeated,two-handed asymmetrical,TO-ARGUE,TO-FLY,action,no,1
+sign_026.mp4,TO-PLAY-CARDS,KAARTEN,high iconic,H2,L5,circular,repeated,two-handed symmetrical,TO-ARGUE,TO-JUGGLE,action,yes,5
+sign_027.mp4,TO-SWIM,ZWEMMEN,high iconic,H2,L5,circular,repeated,two-handed symmetrical,UNKNOWN,UMBRELLA,action,yes,5
+sign_028.mp4,TOILET,TOILET,arbitrary,H6,L5,hold,single,one-handed,UNKNOWN,CURTAINS,action,no,2
+sign_029.mpeg,TO-STAPLE,NIETEN,low iconic,H2,L5,arched,repeated,one-handed,TO-SLAP,ROOM,action,no,2
+sign_031.mpeg,AMBULANCE,AMBULANCE,arbitrary,H6,L5,arched,repeated,two-handed symmetrical,UNKNOWN,TO-SHOUT,action,no,2
+sign_032.mpeg,BUS,BUS,arbitrary,H6,L5,hold,repeated,two-handed symmetrical,UNKNOWN,BRIDGE,action,no,2
+sign_033.mp4,BRIDGE,BRUG,high iconic,H2,L5,arched,repeated,one-handed,UNKNOWN,DOOR,action,yes,2
+sign_034.mpeg,INTERPRETER,TOLK,arbitrary,H2,L5,circular,repeated,one-handed,UNKNOWN,TO-KNOCK,action,no,2
+sign_035.mpeg,TO-LAUGH,LACHEN,arbitrary,H2,L5,circular,single,one-handed,UNKNOWN,PISTOL,action,no,2
+sign_036.mpeg,BED,BED,low iconic,H2,L5,arched,repeated,two-handed symmetrical,UNKNOWN,BUTTERFLY,action,no,2
+sign_037.mp4,TABLE,TAFEL,high iconic,H6,L5,circular,repeated,two-handed symmetrical,UNKNOWN,BLANKET,action,yes,3
+sign_038.mpeg,UMBRELLA,PARAPLU,low iconic,H6,L1,arched,repeated,two-handed asymmetrical,UNKNOWN,CURTAINS,action,yes,4
+sign_039.mpeg,FRUIT,FRUIT,arbitrary,H6,L1,arched,repeated,one-handed,TO-SLAP,TO-SMS,action,no,2
+sign_040.mp4,TO-ERASE,UITGUMMEN,high iconic,H1,L5,circular,repeated,one-handed,UNKNOWN,TO-KNOCK,action,no,2
+sign_041.mpeg,SHEEP,SCHAAP,arbitrary,H2,L5,circular,repeated,two-handed symmetrical,UNKNOWN,TO-ARGUE,action,no,2
+sign_042.mpeg,TO-ARGUE,RUZIE,arbitrary,H4,L5,circular,repeated,two-handed symmetrical,TO-ARGUE,TO-ARGUE,action,yes,5
+sign_043.mp4,BIRD,VOGEL,high iconic,H2,L5,arched,repeated,two-handed symmetrical,UNKNOWN,TABLE,action,no,2
+sign_044.mpeg,KIWI,KIWI,arbitrary,H4,L4,arched,single,two-handed asymmetrical,TO-ERASE,TO-STEAL,action,no,1
+sign_045.mp4,BLANKET,DEKEN,high iconic,H3,L5,circular,repeated,two-handed symmetrical,TO-ARGUE,TO-WRING,action,no,2
+sign_046.mpeg,RATTLE,RAMMELAAR,low iconic,H6,L5,circular,repeated,one-handed,UNKNOWN,RATTLE,action,yes,4
+sign_047.mp4,HELICOPTER,HELICOPTER,high iconic,H4,L5,straight,repeated,one-handed,UNKNOWN,TO-INJECT,action,no,1
+sign_048.mpeg,TOWEL,HANDDOEK,high iconic,H1,L5,circular,repeated,two-handed symmetrical,TO-ARGUE,TO-SLAP,action,no,2
+sign_049.mpeg,BOTTLE,FLES,low iconic,H6,L5,arched,repeated,two-handed asymmetrical,UNKNOWN,TO-BREAK,action,no,2
+sign_050.mpeg,BEAR,BEER,arbitrary,H3,L5,circular,repeated,two-handed symmetrical,UNKNOWN,WATER,action,no,2
+sign_051.mpeg,TO-JUGGLE,JONGLEREN,low iconic,H1,L5,arched,repeated,two-handed symmetrical,UNKNOWN,TO-JUGGLE,action,yes,6
+sign_052.mpeg,WATER,WATER,arbitrary,H6,L1,hold,single,one-handed,UNKNOWN,PISTOL,action,no,2
+sign_053.mp4,TO-BREAK,BREKEN,high iconic,H3,L5,hold,single,two-handed symmetrical,TO-PUT-CLOTHES-ON,TO-PUT-CLOTHES-ON,action,yes,3
+sign_054.mp4,TELEPHONE,TELEFOON,high iconic,H6,L1,hold,single,one-handed,TELEPHONE,TELEPHONE,action,yes,6
+sign_055.mpeg,DOOR,DEUR,low iconic,H2,L5,circular,repeated,two-handed symmetrical,UNKNOWN,TO-JUGGLE,action,no,2
+sign_056.mpeg,TO-CRY,HUILEN,low iconic,H6,L1,circular,repeated,two-handed asymmetrical,UNKNOWN,HELICOPTER,action,yes,3
+sign_057.mpeg,SOFA,SOFA,arbitrary,H6,L5,circular,repeated,two-handed symmetrical,UNKNOWN,UMBRELLA,action,no,2
+sign_058.mpeg,HORSE,PAARD,arbitrary,H6,L5,circular,repeated,two-handed symmetrical,UNKNOWN,TO-KNOCK,action,no,2
+sign_059.mpeg,TO-PUT-CLOTHES-ON,AANKLEDEN,low iconic,H2,L5,arched,repeated,two-handed symmetrical,UNKNOWN,TREE,action,yes,3
+sign_060.mpeg,PISTOL,PISTOOL,low iconic,H4,L5,hold,repeated,one-handed,UNKNOWN,PISTOL,action,yes,5
+sign_061.mpeg,TO-DIE,OVERLIJDEN,arbitrary,H6,L5,circular,repeated,two-handed symmetrical,UNKNOWN,TO-SMS,action,no,2
+sign_062.mp4,BICYCLE,FIETS,high iconic,H1,L5,circular,repeated,two-handed symmetrical,TO-PUT-CLOTHES-ON,TO-ERASE,action,no,3
+sign_063.mpeg,LIGHTBULB,GLOEILAMP,arbitrary,H4,L1,hold,single,one-handed,TO-ERASE,TO-BREAK,action,no,2
+sign_064.mpeg,TO-CRASH,BOTSEN,low iconic,H2,L5,arched,repeated,two-handed symmetrical,BUTTERFLY,TO-JUGGLE,action,yes,3
+sign_065.mpeg,WHEELCHAIR,ROLSTOEL,low iconic,H6,L5,circular,repeated,two-handed symmetrical,UNKNOWN,TO-ORDER,action,no,2
+sign_066.mpeg,PLANE,VLIEGTUIG,low iconic,H6,L5,hold,single,one-handed,UNKNOWN,DOOR,action,no,3
+sign_067.mpeg,TO-KNOCK,KLOPPEN,low iconic,H4,L1,arched,repeated,one-handed,UNKNOWN,TO-KNOCK,action,yes,5
+sign_068.mpeg,TREE,BOOM,arbitrary,H4,L5,hold,repeated,two-handed symmetrical,UNKNOWN,RABBIT,action,no,1
+sign_069.mp4,TO-SMS,SMSEN,high iconic,H1,L5,circular,repeated,one-handed,UNKNOWN,DOCTOR,action,no,2
+sign_070.mpeg,BUTTERFLY,VLINDER,low iconic,H2,L5,hold,repeated,two-handed symmetrical,UNKNOWN,TO-JUGGLE,action,no,3
+sign_071.mpeg,FIRE,VUUR,arbitrary,H2,L5,circular,repeated,two-handed asymmetrical,UNKNOWN,UMBRELLA,action,no,2
+sign_072.mpeg,TO-ORDER,BESTELLEN,arbitrary,H4,L1,straight,single,one-handed,TO-ARGUE,TO-ORDER,action,no,2
+sign_073.mpeg,TO-COOK,KOKEN,arbitrary,H4,L5,hold,repeated,two-handed asymmetrical,UNKNOWN,TO-GOSSIP,action,no,2
+sign_074.mpeg,LAPTOP,LAPTOP,low iconic,H2,L5,arched,repeated,two-handed asymmetrical,UNKNOWN,TO-ARGUE,action,no,2
+sign_075.mpeg,PENGUIN,PINGUIN,low iconic,H2,L5,hold,repeated,two-handed symmetrical,UNKNOWN,TO-JUGGLE,action,no,2
+sign_076.mp4,CELL,GEVANGENIS,high iconic,H1,L5,hold,repeated,two-handed symmetrical,TO-ARGUE,AMBULANCE,action,no,2
+sign_077.mpeg,TO-FLY,VLIEGEN,low iconic,H6,L5,arched,repeated,two-handed asymmetrical,UNKNOWN,TO-FLY,action,yes,3
+sign_078.mp4,TO-CUT,KNIPPEN,high iconic,H4,L5,straight,repeated,one-handed,UNKNOWN,TO-CUT,action,yes,3
+sign_079.mpeg,PERSON,PERSOON,arbitrary,H4,L5,arched,single,one-handed,UNKNOWN,TO-GOSSIP,action,yes,2
+sign_080.mpeg,CAT,KAT,low iconic,H6,L1,hold,repeated,two-handed symmetrical,UNKNOWN,BUTTERFLY,action,no,2
+sign_081.mp4,DRILL,BOOR,high iconic,H4,L5,hold,single,one-handed,UNKNOWN,TO-SHOUT,action,no,2
+sign_082.mpeg,DOG,HOND,arbitrary,H3,L5,straight,repeated,two-handed symmetrical,TO-ARGUE,TO-INJECT,action,no,2
+sign_083.mp4,CURTAINS,GORDIJNEN,high iconic,H3,L5,straight,repeated,two-handed symmetrical,TO-ARGUE,TO-STEAL,action,yes,5
+sign_084.mpeg,MUMMY,MAMA,arbitrary,H4,L1,hold,single,one-handed,TO-SLAP,TELEPHONE,action,no,1
+sign_085.mpeg,EAGLE,ADELAAR,low iconic,H2,L1,arched,repeated,two-handed asymmetrical,TO-ARGUE,WATER,action,no,2
+sign_086.mp4,SUITCASE,KOFFER,high iconic,H1,L5,straight,repeated,one-handed,TO-SLAP,TO-KNOCK,action,no,2
+sign_087.mpeg,CHICKEN,KIP,low iconic,H4,L1,straight,single,one-handed,TELEPHONE,RATTLE,action,no,2
+sign_088.mp4,MONKEY,AAP,high iconic,H6,L5,circular,repeated,two-handed symmetrical,TO-ARGUE,TO-ARGUE,action,no,2
+sign_089.mp4,PIANO,PIANO,high iconic,H3,L5,straight,repeated,two-handed symmetrical,UNKNOWN,PIANO,action,no,2
+sign_090.mpeg,PUPPET,POP,arbitrary,H1,L5,arched,single,one-handed,TO-ERASE,TO-WRING,action,no,2
+sign_091.mp4,KEY,SLEUTEL,high iconic,H1,L5,straight,single,one-handed,UNKNOWN,TO-DIE,action,no,2
+sign_092.mp4,BABY,BABY,high iconic,H2,L5,circular,repeated,two-handed asymmetrical,UNKNOWN,PLANE,action,no,2
+sign_093.mpeg,ELEPHANT,OLIFANT,low iconic,H6,L1,arched,repeated,one-handed,TO-FLY,TO-INJECT,action,no,2
+sign_094.mpeg,TO-STEAL,STELEN,low iconic,H6,L3,arched,repeated,two-handed asymmetrical,UNKNOWN,SPIDER,action,yes,2
+sign_095.mpeg,DOCTOR,DOKTER,arbitrary,H4,L1,straight,repeated,one-handed,TO-ARGUE,TO-STEAL,action,no,2
+sign_096.mpeg,TO-GOSSIP,RODDELEN,arbitrary,H1,L5,circular,repeated,two-handed symmetrical,TO-ARGUE,CURTAINS,action,no,2
+sign_097.mpeg,SNAKE,SLANG,low iconic,H6,L5,arched,repeated,two-handed asymmetrical,UNKNOWN,WINDSCREEN WIPER,action,no,2
+sign_098.mpeg,TO-CUT,SNIJDEN,low iconic,H6,L5,circular,repeated,two-handed asymmetrical,UNKNOWN,TO-SLAP,action,yes,3

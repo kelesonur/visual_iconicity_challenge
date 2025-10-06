@@ -1,0 +1,674 @@
+[
+  {
+    "id": "sign_001",
+    "video": "sign_001.mp4",
+    "gloss": "LOBSTER",
+    "dutch": "KREEFT",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_002",
+    "video": "sign_002.mp4",
+    "gloss": "TO-SHOUT",
+    "dutch": "SCHREEUWEN",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_003",
+    "video": "sign_003.mpeg",
+    "gloss": "RABBIT",
+    "dutch": "KONIJN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_004",
+    "video": "sign_004.mp4",
+    "gloss": "TO-GO-OUT",
+    "dutch": "UITGAAN",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_005",
+    "video": "sign_005.mp4",
+    "gloss": "TO-SLAP",
+    "dutch": "SLAPEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_006",
+    "video": "sign_006.mpeg",
+    "gloss": "TO-WRING",
+    "dutch": "WRINGEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_007",
+    "video": "sign_007.mp4",
+    "gloss": "BALL",
+    "dutch": "BAL",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_008",
+    "video": "sign_008.mp4",
+    "gloss": "SPIDER",
+    "dutch": "SPIN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_009",
+    "video": "sign_009.mp4",
+    "gloss": "DEER",
+    "dutch": "HERT",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_010",
+    "video": "sign_010.mpeg",
+    "gloss": "ZIMMER",
+    "dutch": "ROLLATOR",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_011",
+    "video": "sign_011.mp4",
+    "gloss": "ELECTRICITY",
+    "dutch": "ELEKTRICITEIT",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_012",
+    "video": "sign_012.mp4",
+    "gloss": "CAMEL",
+    "dutch": "KAMEEL",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_013",
+    "video": "sign_013.mpeg",
+    "gloss": "ROOM",
+    "dutch": "KAMER",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_014",
+    "video": "sign_014.mp4",
+    "gloss": "WINDSCREEN WIPER",
+    "dutch": "RUITENWISSER",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_015",
+    "video": "sign_015.mpeg",
+    "gloss": "RESTAURANT",
+    "dutch": "RESTAURANT",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_016",
+    "video": "sign_016.mp4",
+    "gloss": "CALCULATOR",
+    "dutch": "REKENMACHINE",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_017",
+    "video": "sign_017.mp4",
+    "gloss": "BUILDING",
+    "dutch": "GEBOUW",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_018",
+    "video": "sign_018.mpeg",
+    "gloss": "SUGAR",
+    "dutch": "SUIKER",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_019",
+    "video": "sign_019.mp4",
+    "gloss": "PRAM",
+    "dutch": "BUGGY",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_020",
+    "video": "sign_020.mpeg",
+    "gloss": "TO-INJECT",
+    "dutch": "INJECTEREN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_021",
+    "video": "sign_021.mp4",
+    "gloss": "TO-PUMP",
+    "dutch": "OPPEMPEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_022",
+    "video": "sign_022.mp4",
+    "gloss": "SPOON",
+    "dutch": "LEPEL",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_024",
+    "video": "sign_024.mpeg",
+    "gloss": "BOX",
+    "dutch": "DOOS",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_025",
+    "video": "sign_025.mp4",
+    "gloss": "CAR",
+    "dutch": "AUTO",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_026",
+    "video": "sign_026.mp4",
+    "gloss": "TO-PLAY-CARDS",
+    "dutch": "KAARTEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_027",
+    "video": "sign_027.mp4",
+    "gloss": "TO-SWIM",
+    "dutch": "ZWEMMEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_028",
+    "video": "sign_028.mp4",
+    "gloss": "TOILET",
+    "dutch": "TOILET",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_029",
+    "video": "sign_029.mp4",
+    "gloss": "TO-STAPLE",
+    "dutch": "NIETEN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_031",
+    "video": "sign_031.mpeg",
+    "gloss": "AMBULANCE",
+    "dutch": "AMBULANCE",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_032",
+    "video": "sign_032.mpeg",
+    "gloss": "BUS",
+    "dutch": "BUS",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_033",
+    "video": "sign_033.mp4",
+    "gloss": "BRIDGE",
+    "dutch": "BRUG",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_034",
+    "video": "sign_034.mpeg",
+    "gloss": "INTERPRETER",
+    "dutch": "TOLK",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_035",
+    "video": "sign_035.mpeg",
+    "gloss": "TO-LAUGH",
+    "dutch": "LACHEN",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_036",
+    "video": "sign_036.mpeg",
+    "gloss": "BED",
+    "dutch": "BED",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_037",
+    "video": "sign_037.mp4",
+    "gloss": "TABLE",
+    "dutch": "TAFEL",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_038",
+    "video": "sign_038.mpeg",
+    "gloss": "UMBRELLA",
+    "dutch": "PARAPLU",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_039",
+    "video": "sign_039.mpeg",
+    "gloss": "FRUIT",
+    "dutch": "FRUIT",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_040",
+    "video": "sign_040.mp4",
+    "gloss": "TO-ERASE",
+    "dutch": "UITGUMMEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_041",
+    "video": "sign_041.mpeg",
+    "gloss": "SHEEP",
+    "dutch": "SCHAAP",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_042",
+    "video": "sign_042.mpeg",
+    "gloss": "TO-ARGUE",
+    "dutch": "RUZIE",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_043",
+    "video": "sign_043.mp4",
+    "gloss": "BIRD",
+    "dutch": "VOGEL",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_044",
+    "video": "sign_044.mpeg",
+    "gloss": "KIWI",
+    "dutch": "KIWI",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_045",
+    "video": "sign_045.mp4",
+    "gloss": "BLANKET",
+    "dutch": "DEKEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_046",
+    "video": "sign_046.mpeg",
+    "gloss": "RATTLE",
+    "dutch": "RAMMELAAR",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_047",
+    "video": "sign_047.mp4",
+    "gloss": "HELICOPTER",
+    "dutch": "HELICOPTER",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_048",
+    "video": "sign_048.mpeg",
+    "gloss": "TOWEL",
+    "dutch": "HANDDOEK",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_049",
+    "video": "sign_049.mpeg",
+    "gloss": "BOTTLE",
+    "dutch": "FLES",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_050",
+    "video": "sign_050.mpeg",
+    "gloss": "BEAR",
+    "dutch": "BEER",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_051",
+    "video": "sign_051.mpeg",
+    "gloss": "TO-JUGGLE",
+    "dutch": "JONGLEREN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_052",
+    "video": "sign_052.mpeg",
+    "gloss": "WATER",
+    "dutch": "WATER",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_053",
+    "video": "sign_053.mp4",
+    "gloss": "TO-BREAK",
+    "dutch": "BREKEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_054",
+    "video": "sign_054.mp4",
+    "gloss": "TELEPHONE",
+    "dutch": "TELEFOON",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_055",
+    "video": "sign_055.mpeg",
+    "gloss": "DOOR",
+    "dutch": "DEUR",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_056",
+    "video": "sign_056.mpeg",
+    "gloss": "TO-CRY",
+    "dutch": "HUILEN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_057",
+    "video": "sign_057.mpeg",
+    "gloss": "SOFA",
+    "dutch": "SOFA",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_058",
+    "video": "sign_058.mpeg",
+    "gloss": "HORSE",
+    "dutch": "PAARD",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_059",
+    "video": "sign_059.mpeg",
+    "gloss": "TO-PUT-CLOTHES-ON",
+    "dutch": "AANKLEDEN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_060",
+    "video": "sign_060.mpeg",
+    "gloss": "PISTOL",
+    "dutch": "PISTOOL",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_061",
+    "video": "sign_061.mpeg",
+    "gloss": "TO-DIE",
+    "dutch": "OVERLIJDEN",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_062",
+    "video": "sign_062.mp4",
+    "gloss": "BICYCLE",
+    "dutch": "FIETS",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_063",
+    "video": "sign_063.mpeg",
+    "gloss": "LIGHTBULB",
+    "dutch": "GLOEILAMP",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_064",
+    "video": "sign_064.mpeg",
+    "gloss": "TO-CRASH",
+    "dutch": "BOTSEN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_065",
+    "video": "sign_065.mpeg",
+    "gloss": "WHEELCHAIR",
+    "dutch": "ROLSTOEL",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_066",
+    "video": "sign_066.mpeg",
+    "gloss": "PLANE",
+    "dutch": "VLIEGTUIG",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_067",
+    "video": "sign_067.mpeg",
+    "gloss": "TO-KNOCK",
+    "dutch": "KLOPPEN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_068",
+    "video": "sign_068.mpeg",
+    "gloss": "TREE",
+    "dutch": "BOOM",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_069",
+    "video": "sign_069.mp4",
+    "gloss": "TO-SMS",
+    "dutch": "SMSEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_070",
+    "video": "sign_070.mpeg",
+    "gloss": "BUTTERFLY",
+    "dutch": "VLINDER",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_071",
+    "video": "sign_071.mpeg",
+    "gloss": "FIRE",
+    "dutch": "VUUR",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_072",
+    "video": "sign_072.mpeg",
+    "gloss": "TO-ORDER",
+    "dutch": "BESTELLEN",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_073",
+    "video": "sign_073.mpeg",
+    "gloss": "TO-COOK",
+    "dutch": "KOKEN",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_074",
+    "video": "sign_074.mpeg",
+    "gloss": "LAPTOP",
+    "dutch": "LAPTOP",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_075",
+    "video": "sign_075.mpeg",
+    "gloss": "PENGUIN",
+    "dutch": "PINGUIN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_076",
+    "video": "sign_076.mp4",
+    "gloss": "CELL",
+    "dutch": "GEVANGENIS",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_077",
+    "video": "sign_077.mpeg",
+    "gloss": "TO-FLY",
+    "dutch": "VLIEGEN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_078",
+    "video": "sign_078.mp4",
+    "gloss": "TO-CUT",
+    "dutch": "KNIPPEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_079",
+    "video": "sign_079.mpeg",
+    "gloss": "PERSON",
+    "dutch": "PERSOON",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_080",
+    "video": "sign_080.mpeg",
+    "gloss": "CAT",
+    "dutch": "KAT",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_081",
+    "video": "sign_081.mp4",
+    "gloss": "DRILL",
+    "dutch": "BOOR",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_082",
+    "video": "sign_082.mpeg",
+    "gloss": "DOG",
+    "dutch": "HOND",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_083",
+    "video": "sign_083.mp4",
+    "gloss": "CURTAINS",
+    "dutch": "GORDIJNEN",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_084",
+    "video": "sign_084.mpeg",
+    "gloss": "MUMMY",
+    "dutch": "MAMA",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_085",
+    "video": "sign_085.mpeg",
+    "gloss": "EAGLE",
+    "dutch": "ADELAAR",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_086",
+    "video": "sign_086.mp4",
+    "gloss": "SUITCASE",
+    "dutch": "KOFFER",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_087",
+    "video": "sign_087.mpeg",
+    "gloss": "CHICKEN",
+    "dutch": "KIP",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_088",
+    "video": "sign_088.mp4",
+    "gloss": "MONKEY",
+    "dutch": "AAP",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_089",
+    "video": "sign_089.mp4",
+    "gloss": "PIANO",
+    "dutch": "PIANO",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_090",
+    "video": "sign_090.mpeg",
+    "gloss": "PUPPET",
+    "dutch": "POP",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_091",
+    "video": "sign_091.mp4",
+    "gloss": "KEY",
+    "dutch": "SLEUTEL",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_092",
+    "video": "sign_092.mp4",
+    "gloss": "BABY",
+    "dutch": "BABY",
+    "category": "high iconic"
+  },
+  {
+    "id": "sign_093",
+    "video": "sign_093.mp4",
+    "gloss": "ELEPHANT",
+    "dutch": "OLIFANT",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_094",
+    "video": "sign_094.mpeg",
+    "gloss": "TO-STEAL",
+    "dutch": "STELEN",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_095",
+    "video": "sign_095.mpeg",
+    "gloss": "DOCTOR",
+    "dutch": "DOKTER",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_096",
+    "video": "sign_096.mpeg",
+    "gloss": "TO-GOSSIP",
+    "dutch": "RODDELEN",
+    "category": "arbitrary"
+  },
+  {
+    "id": "sign_097",
+    "video": "sign_097.mpeg",
+    "gloss": "SNAKE",
+    "dutch": "SLANG",
+    "category": "low iconic"
+  },
+  {
+    "id": "sign_098",
+    "video": "sign_098.mpeg",
+    "gloss": "TO-CUT",
+    "dutch": "SNIJDEN",
+    "category": "low iconic"
+  }
+]

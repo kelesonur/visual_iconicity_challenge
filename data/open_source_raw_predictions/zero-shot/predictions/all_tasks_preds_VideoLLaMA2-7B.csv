@@ -1,0 +1,97 @@
+video,gloss,dutch,category,handshape,location,path_shape,path_repetition,handedness,transparency,transparency_2,reference,iconicity_binary,iconicity_rating
+sign_001.mp4,LOBSTER,KREEFT,high iconic,H4,L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,TELEPHONE,other,yes,1
+sign_002.mp4,TO-SHOUT,SCHREEUWEN,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,ELECTRICITY,other,yes,4
+sign_003.mpeg,RABBIT,KONIJN,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,arched,"single, repeated",two-handed symmetrical,PERSON,BALL,other,yes,4
+sign_004.mp4,TO-GO-OUT,UITGAAN,arbitrary,H4,L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,CALCULATOR,other,yes,1
+sign_005.mp4,TO-SLAP,SLAPEN,high iconic,H1,L1,arched,"single, repeated",two-handed asymmetrical,PERSON,TO-JUGGLE,other,no,4
+sign_006.mpeg,TO-WRING,WRINGEN,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,TO-WRING,other,yes,1
+sign_007.mp4,BALL,BAL,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed symmetrical,PERSON,BALL,other,yes,1
+sign_008.mp4,SPIDER,SPIN,high iconic,H1,L1,arched,"single, repeated",two-handed asymmetrical,PISTOL,TO-PUMP,other,yes,1
+sign_009.mp4,DEER,HERT,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,arched,"single, repeated",two-handed asymmetrical,PUPPET,LIGHTBULB,other,yes,2
+sign_010.mpeg,ZIMMER,ROLLATOR,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed asymmetrical,PERSON,PUPPET,other,no,1
+sign_011.mp4,ELECTRICITY,ELEKTRICITEIT,arbitrary,H4,L1,arched,"single, repeated",two-handed asymmetrical,PISTOL,TO-WRING,other,yes,1
+sign_012.mp4,CAMEL,KAMEEL,high iconic,H1,L1,straight,"single, repeated",two-handed asymmetrical,PISTOL,TO-ERASE,other,yes,2
+sign_013.mpeg,ROOM,KAMER,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,straight,"single, repeated",two-handed asymmetrical,PERSON,TO-ORDER,other,no,1
+sign_014.mp4,WINDSCREEN WIPER,RUITENWISSER,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,WINDSCREEN WIPER,other,yes,1
+sign_015.mpeg,RESTAURANT,RESTAURANT,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5(L1=hands touching head/face, L2=hands touching torso, L3=hands touching arm, L4=hands touching weak/passive hand, L5=hands in front of the body or face)",circular,"single, repeated",two-handed asymmetrical,PERSON,PLANE,other,yes,1
+sign_016.mp4,CALCULATOR,REKENMACHINE,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,PISTOL,other,no,1
+sign_017.mp4,BUILDING,GEBOUW,arbitrary,H4,L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,PLANE,other,no,1
+sign_018.mpeg,SUGAR,SUIKER,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,arched,"single, repeated",two-handed asymmetrical,PISTOL,CELL,other,yes,1
+sign_019.mp4,PRAM,BUGGY,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,PUPPET,other,no,1
+sign_020.mpeg,TO-INJECT,INJECTEREN,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed symmetrical,PERSON,PERSON,other,yes,1
+sign_021.mp4,TO-PUMP,OPPEMPEN,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,LIGHTBULB,other,yes,1
+sign_022.mp4,SPOON,LEPEL,high iconic,H4,L1,arched,"single, repeated",two-handed asymmetrical,PISTOL,TO-ORDER,other,yes,1
+sign_024.mpeg,BOX,DOOS,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed symmetrical,PERSON,CURTAINS,other,yes,7
+sign_025.mp4,CAR,AUTO,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,TO-ORDER,other,no,1
+sign_026.mp4,TO-PLAY-CARDS,KAARTEN,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,arched,"single, repeated",two-handed asymmetrical,PUPPET,CURTAINS,other,yes,1
+sign_027.mp4,TO-SWIM,ZWEMMEN,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,LIGHTBULB,other,no,1
+sign_028.mp4,TOILET,TOILET,arbitrary,H4,L1,arched,"single, repeated",two-handed asymmetrical,PISTOL,TO-GO-OUT,other,yes,1
+sign_029.mpeg,TO-STAPLE,NIETEN,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed symmetrical,PERSON,nan,other,yes,1
+sign_031.mpeg,AMBULANCE,AMBULANCE,arbitrary,H2,L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,TO-ORDER,other,yes,7
+sign_032.mpeg,BUS,BUS,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,straight,"single, repeated",two-handed asymmetrical,PERSON,CURTAINS,other,no,1
+sign_033.mp4,BRIDGE,BRUG,high iconic,H1,L1,straight,"single, repeated",two-handed asymmetrical,PISTOL,TO-PLAY-CARDS,other,yes,1
+sign_034.mpeg,INTERPRETER,TOLK,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,TO-CUT,other,no,1
+sign_035.mpeg,TO-LAUGH,LACHEN,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,straight,"single, repeated",two-handed asymmetrical,PERSON,nan,other,no,1
+sign_036.mpeg,BED,BED,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed symmetrical,PERSON,CURTAINS,other,yes,1
+sign_037.mp4,TABLE,TAFEL,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,WINDSCREEN WIPER,other,yes,1
+sign_038.mpeg,UMBRELLA,PARAPLU,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,PLANE,other,yes,1
+sign_039.mpeg,FRUIT,FRUIT,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,TO-FLY,other,no,1
+sign_040.mp4,TO-ERASE,UITGUMMEN,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,straight,"single, repeated",two-handed asymmetrical,PISTOL,TO-DIE,other,yes,1
+sign_041.mpeg,SHEEP,SCHAAP,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,PISTOL,other,yes,1
+sign_042.mpeg,TO-ARGUE,RUZIE,arbitrary,H4,L1,circular,"single, repeated",two-handed asymmetrical,PERSON,CURTAINS,other,yes,4
+sign_043.mp4,BIRD,VOGEL,high iconic,H2,L1,straight,"single, repeated",two-handed asymmetrical,PUPPET,BIRD,other,yes,1
+sign_044.mpeg,KIWI,KIWI,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,PISTOL,other,no,1
+sign_045.mp4,BLANKET,DEKEN,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,PISTOL,other,no,1
+sign_046.mpeg,RATTLE,RAMMELAAR,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,TELEPHONE,other,yes,1
+sign_047.mp4,HELICOPTER,HELICOPTER,high iconic,H4,L1,straight,"single, repeated",two-handed asymmetrical,PISTOL,TOILET,other,no,1
+sign_048.mpeg,TOWEL,HANDDOEK,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,TO-WRING,other,no,1
+sign_049.mpeg,BOTTLE,FLES,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,CURTAINS,other,yes,4
+sign_050.mpeg,BEAR,BEER,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,TO-WRING,other,no,1
+sign_051.mpeg,TO-JUGGLE,JONGLEREN,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5(L1=hands touching head/face, L2=hands touching torso, L3=hands touching arm, L4=hands touching weak/passive hand, L5=hands in front of the body or face)",circular,"single, repeated",two-handed asymmetrical,PERSON,TO-JUGGLE,other,yes,1
+sign_052.mpeg,WATER,WATER,arbitrary,H1,L1,arched,"single, repeated",two-handed asymmetrical,PERSON,CURTAINS,other,no,1
+sign_053.mp4,TO-BREAK,BREKEN,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,TO-SWIM,other,yes,1
+sign_054.mp4,TELEPHONE,TELEFOON,high iconic,H1,L1,arched,"single, repeated",two-handed asymmetrical,TELEPHONE,TELEPHONE,other,yes,7
+sign_055.mpeg,DOOR,DEUR,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed asymmetrical,PERSON,TO-GO-OUT,other,yes,7
+sign_056.mpeg,TO-CRY,HUILEN,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed symmetrical,PERSON,ELECTRICITY,other,yes,1
+sign_057.mpeg,SOFA,SOFA,arbitrary,H2,L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,TO-DIE,other,no,1
+sign_058.mpeg,HORSE,PAARD,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,PERSON,other,no,1
+sign_059.mpeg,TO-PUT-CLOTHES-ON,AANKLEDEN,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed symmetrical,PERSON,TREE,other,yes,1
+sign_060.mpeg,PISTOL,PISTOOL,low iconic,H4,L1,circular,"single, repeated",two-handed asymmetrical,PERSON,PISTOL,other,yes,7
+sign_061.mpeg,TO-DIE,OVERLIJDEN,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,straight,"single, repeated",two-handed asymmetrical,PERSON,TO-DIE,other,yes,1
+sign_062.mp4,BICYCLE,FIETS,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,TO-ORDER,other,yes,1
+sign_063.mpeg,LIGHTBULB,GLOEILAMP,arbitrary,H4,L1,arched,"single, repeated",two-handed asymmetrical,PISTOL,LIGHTBULB,other,yes,1
+sign_064.mpeg,TO-CRASH,BOTSEN,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed symmetrical,PERSON,CAMEL,other,yes,1
+sign_065.mpeg,WHEELCHAIR,ROLSTOEL,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed symmetrical,PERSON,BOX,other,yes,1
+sign_066.mpeg,PLANE,VLIEGTUIG,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed symmetrical,PERSON,PERSON,other,yes,4
+sign_067.mpeg,TO-KNOCK,KLOPPEN,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed symmetrical,PERSON,TABLE,other,yes,1
+sign_068.mpeg,TREE,BOOM,arbitrary,H4,L1,circular,"single, repeated",two-handed asymmetrical,PERSON,SNAKE,other,yes,1
+sign_069.mp4,TO-SMS,SMSEN,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,TELEPHONE,other,no,1
+sign_070.mpeg,BUTTERFLY,VLINDER,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed symmetrical,PERSON,BUTTERFLY,other,yes,1
+sign_071.mpeg,FIRE,VUUR,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,TO-CRY,other,yes,1
+sign_072.mpeg,TO-ORDER,BESTELLEN,arbitrary,H4,L1,straight,"single, repeated",two-handed asymmetrical,PISTOL,CURTAINS,other,yes,7
+sign_073.mpeg,TO-COOK,KOKEN,arbitrary,H4,L1,straight,"single, repeated",two-handed asymmetrical,PISTOL,SNAKE,other,no,1
+sign_074.mpeg,LAPTOP,LAPTOP,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,CURTAINS,other,no,1
+sign_075.mpeg,PENGUIN,PINGUIN,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed symmetrical,PERSON,SPIDER,other,yes,1
+sign_076.mp4,CELL,GEVANGENIS,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,FIRE,other,yes,1
+sign_077.mpeg,TO-FLY,VLIEGEN,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,SPIDER,other,yes,1
+sign_078.mp4,TO-CUT,KNIPPEN,high iconic,H4,L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,ZIMMER,other,yes,7
+sign_079.mpeg,PERSON,PERSOON,arbitrary,H4,L1,straight,"single, repeated",two-handed asymmetrical,PISTOL,PERSON,other,no,1
+sign_080.mpeg,CAT,KAT,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed symmetrical,PERSON,PUPPET,other,yes,1
+sign_081.mp4,DRILL,BOOR,high iconic,H4,L1,straight,"single, repeated",two-handed asymmetrical,PISTOL,PERSON,other,yes,1
+sign_082.mpeg,DOG,HOND,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,arched,"single, repeated",two-handed asymmetrical,PUPPET,MONKEY,other,yes,1
+sign_083.mp4,CURTAINS,GORDIJNEN,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,TO-WRING,other,yes,1
+sign_084.mpeg,MUMMY,MAMA,arbitrary,H1,L1,arched,"single, repeated",two-handed asymmetrical,PISTOL,TO-DIE,other,yes,1
+sign_085.mpeg,EAGLE,ADELAAR,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed symmetrical,PERSON,BOX,other,no,1
+sign_086.mp4,SUITCASE,KOFFER,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,TO-SLAP,other,no,2
+sign_087.mpeg,CHICKEN,KIP,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed symmetrical,PERSON,CURTAINS,other,yes,2
+sign_088.mp4,MONKEY,AAP,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,TO-SMS,other,yes,1
+sign_089.mp4,PIANO,PIANO,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PUPPET,TO-FLY,other,yes,1
+sign_090.mpeg,PUPPET,POP,arbitrary,H1,L1,straight,"single, repeated",two-handed asymmetrical,PISTOL,ELECTRICITY,other,yes,1
+sign_091.mp4,KEY,SLEUTEL,high iconic,H4,L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,PERSON,other,yes,1
+sign_092.mp4,BABY,BABY,high iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PISTOL,TELEPHONE,other,yes,1
+sign_093.mpeg,ELEPHANT,OLIFANT,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed symmetrical,PERSON,nan,other,yes,1
+sign_094.mpeg,TO-STEAL,STELEN,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed asymmetrical,PERSON,BALL,other,yes,1
+sign_095.mpeg,DOCTOR,DOKTER,arbitrary,H4,L1,straight,"single, repeated",two-handed asymmetrical,PISTOL,TO-KNOCK,other,no,1
+sign_096.mpeg,TO-GOSSIP,RODDELEN,arbitrary,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,TO-GOSSIP,other,yes,1
+sign_097.mpeg,SNAKE,SLANG,low iconic,"H1,H2,H3,H4,H5,H6,H7",L1,circular,"single, repeated",two-handed asymmetrical,PERSON,TO-ARGUE,other,yes,2
+sign_098.mpeg,TO-CUT,SNIJDEN,low iconic,"H1,H2,H3,H4,H5,H6,H7","L1, L2, L3, L4, L5",circular,"single, repeated",two-handed asymmetrical,PERSON,PERSON,other,yes,1
